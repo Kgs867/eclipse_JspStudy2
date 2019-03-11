@@ -16,6 +16,6 @@
   //document.write("str=>"+str);
   //<h1>test</h1> 태그 사용(자바스크립트 구문,표현식도 불가)
  %>
- <%=str %>
+<%=str %>
 </body>
 </html>
